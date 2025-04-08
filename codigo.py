@@ -13,3 +13,4 @@ def gerar_relatorio():
 
 # Chamada da função principal para executar o relatório
 gerar_relatorio()
+print("depois de gerar o relatório é pra dar esse feedback louco aqui")
